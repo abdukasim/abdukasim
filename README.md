@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **abdukasimr@gmail.com**
+- 📫 How to reach me **@abdukasimR**
 
 
 <h3 align="left">Languages and Tools:</h3>
