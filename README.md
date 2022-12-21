@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Kasim</h1>
 <h3 align="center">Detail oriented Frontend Developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Attendance Management System](https://github.com/abdukasim/Attendance-Management-System)
+- 🔭 I’m currently working on [Attendance Management App](https://github.com/abdukasim/attendance-management-app)
 
 - 🌱 I’m currently learning **Node.js, MongoDB**
 
