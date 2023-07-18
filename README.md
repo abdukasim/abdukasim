@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Attendance Management App](https://github.com/abdukasim/attendance-management-app)
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🌱 I’m currently learning **Smart contract development**
 
 - 💬 Ask me about **react**
 
