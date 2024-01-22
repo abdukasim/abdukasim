@@ -1,10 +1,10 @@
-# Hi 👋, I'm Abdulrahman Kasim
+## Hi 👋, I'm Abdulrahman Kasim
 
 I love to code. Especially Typscript.
 
 I'm a team player and enjoy building great products.
 
-### Tech
+#### Tech
 - Typescript
 - React.js
 - Node.js
