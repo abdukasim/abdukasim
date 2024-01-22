@@ -13,5 +13,6 @@ I'm a team player and enjoy building great products.
 - TailwindCSS
 - Firebase
 - Prisma
+- Solidity
 
 Learning Laravel and AWS.
