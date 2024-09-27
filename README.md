@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Abdulrahman Kasim
 
-I love to code. Especially Typscript.
+I love to code. Especially in Typscript.
 
 I'm a team player and enjoy building great products.
 
