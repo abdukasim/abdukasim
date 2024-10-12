@@ -1,18 +1,14 @@
-## Hi 👋, I'm Abdulrahman Kasim
+## Hi 👋, I'm Abdu
 
-I love to code. Especially in Typscript.
-
-I'm a team player and enjoy building great products.
+Fullstack developer specializing in building AI powered apps. 
 
 #### Tech
 - Typescript
+- Next.js
+- TailwindCSS
+- Python
 - React.js
 - Node.js
-- Next.js
 - CSS
-- TailwindCSS
 - Firebase
 - Prisma
-- Solidity
-
-Learning Laravel and AWS.
