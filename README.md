@@ -1,14 +1,16 @@
 ## Hi 👋, I'm Abdu
 
-Fullstack developer specializing in building AI powered apps. 
+I've built websites and webapps that are used by thounsands of users on a daily basis
 
 #### Tech
-- Typescript
 - Next.js
+- Supabase
+- Typescript
 - TailwindCSS
-- Python
+- Shadcn
 - React.js
 - Node.js
+- Python
 - CSS
 - Firebase
 - Prisma
